@@ -1,0 +1,2 @@
+# hp
+ new hugo homepage
